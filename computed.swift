@@ -12,7 +12,6 @@ struct crap {
         }
     }
 }
-print ("I love Gregor")
 var s = crap(x: 4, y: 8);
 print(s.z);
 s.z = 12;
